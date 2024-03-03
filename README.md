@@ -3,4 +3,5 @@ This is my site.
 Pardon me while I start building it. Eventually, it may actually contain some content.
 In the meantime you'll have to be content with this bit of content.
 
-![beach](/docs/assets/beach.jpg)
+<img src='/docs/assets/beach.jpg' width="50%" height="50%">
+This image is in the public domain according to The MET

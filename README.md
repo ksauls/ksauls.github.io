@@ -7,3 +7,5 @@ In the meantime you'll have to be content with this bit of content.
 This image is in the public domain according to The MET
 
 I did add <a href="Accessing lan with Tailscale">This Tailscale page</a> to the site.
+
+And <a ahref="a long time coming.md"> this page</a>

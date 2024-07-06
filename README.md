@@ -8,4 +8,4 @@ This image is in the public domain according to The MET
 
 I did add <a href="Accessing lan with Tailscale">This Tailscale page</a> to the site.
 
-And <a href="a long time coming.md"> this page</a>
+And <a href="a-long-time-coming"> this page</a>
